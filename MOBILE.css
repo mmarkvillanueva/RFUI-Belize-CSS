@@ -9,10 +9,10 @@
     --row-elements-top-bottom-margin: 5px;
     --row-elements-font-family: "72", "72full", Arial, Helvetica, sans-serif;
     --row-elements-font-size: 0.875rem;
+    /* Ignore if zooming to be applied via RF device configurations */
     --body-zoom: 0%;
     /* Ignore if padding to be applied via RF device configurations */
     --body-padding: 0px;
-    /* Ignore if zooming to be applied via RF device configurations */
 }
 
 /*-- End of insert @mmarkvillanueva -- */
