@@ -197,6 +197,15 @@ textarea {
     /* -- End of insert @mmarkvillanueva --*/
 }
 
+/* -- Begin of insert @mmarkvillanueva --*/
+.MobileButton:active {
+    color: #f7f7f7;
+    background-color: #346187;
+}
+
+.MobileButton:hov
+/* -- End of insert @mmarkvillanueva --*/
+
 /* --- DISABLED BUTTON -------------*/
 .MobileButtonDisabled {
     width: 100%;
