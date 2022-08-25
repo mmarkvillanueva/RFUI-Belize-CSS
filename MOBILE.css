@@ -9,10 +9,10 @@
     --row-elements-top-bottom-margin: 5px;
     --row-elements-font-family: "72", "72full", Arial, Helvetica, sans-serif;
     --row-elements-font-size: 0.875rem;
-    /* Ignore if zooming to be applied via RF device configurations */
-    --body-zoom: 0%;
-    /* Ignore if padding to be applied via RF device configurations */
-    --body-padding: 0px;
+    /* Set to zero if zooming and padding will be applied via RF device Industrial Browser Configurations */
+    /* Here's an example if zooming and padding to be applied manually in the CSS for device with 480px x 800px resolution */
+    --body-zoom: 290%;
+    --body-padding: 14.05px;
 }
 
 /*-- End of insert @mmarkvillanueva -- */
